@@ -3,9 +3,6 @@
  * Iterator class, allows traversal of the set of neighbors
  * of given permutation. There will be n(n-1)/2 neighbors,
  * obtained by swapping all pairs of elements in the permutation.
- *
- * @author Gabriela Vega-Lobatos; 6295304; U01
- * @author Anabella Amanau; 6318148; U01
  */
 public class PermutationNeighborhood
 {
