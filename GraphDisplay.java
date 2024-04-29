@@ -4,9 +4,6 @@ import java.util.ArrayList;
 
 /**
  * Defines the panel the drawings will be made in.
- *
- * @author Gabriela Vega-Lobatos; 6295304; U01
- * @author Anabella Amanau; 6318148; U01
  */
 public class GraphDisplay extends JPanel
 {
