@@ -1,8 +1,6 @@
 
 /**
  * Represents an (x, y) point.
- *
- * @author Prof. A. Hernandez
  */
 public class Point
 {
