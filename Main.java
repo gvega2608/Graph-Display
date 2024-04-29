@@ -4,24 +4,18 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Project template to be used as a framework for your solution.
- *
- * @author Gabriela Vega-Lobatos; 6295304; U01
- * @author Anabella Amanau; 6318148; U01
- */
-public class Project3
+public class Main
 {
     public static void main(String[] args)
     {
-        new Project3();
+        new Main();
     }
 
     /**
      * Reads input file with points, instantiates graph, obtain shortest route,
      * and graphs it.
      */
-    public Project3()
+    public Main()
     {
         //read filename
         Scanner in = new Scanner(System.in);
