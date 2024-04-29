@@ -3,9 +3,6 @@ import java.util.Random;
 
 /**
  * Implements a Graph. Uses an adjacency matrix to represent the graph.
- *
- * @author Gabriela Vega-Lobatos; 6295304; U01
- * @author Anabella Amanau; 6318148; U01
  */
 public class Graph implements GraphInterface
 {
